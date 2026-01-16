@@ -6,7 +6,6 @@ env = { API_KEY = "${GITHUB_SECRET_NAME}", HF_TOKEN = "${HF_TOKEN}", LOG_LEVEL =
 agentbeats_id = ""
 name = "test_taker"
 env = {}
-s
 
 [config]
 questions_limit = "none"
