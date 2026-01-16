@@ -5,7 +5,7 @@ env = { HF_TOKEN = "${HF_TOKEN}", LOG_LEVEL = "INFO" }
 [[participants]]
 agentbeats_id = "019bc43f-4d48-7eb3-a64b-dcc4538cd1af"
 name = "test_taker"
-env = { NEBIUS_API_KEY = "${NEBIUS_API_KEY}" }
+env = { NEBIUS_API_KEY = "${NEBIUS_API_KEY}", HF_TOKEN = "${HF_TOKEN}" }
 
 [config]
 questions_limit = "none"
