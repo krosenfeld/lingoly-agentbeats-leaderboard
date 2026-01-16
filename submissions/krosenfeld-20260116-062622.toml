@@ -1,0 +1,11 @@
+[green_agent]
+agentbeats_id = "019bc407-69cf-7bc3-85ce-b1a05830277c"
+env = { HF_TOKEN = "${HF_TOKEN}", LOG_LEVEL = "INFO" }
+
+[[participants]]
+agentbeats_id = "019bc43f-4d48-7eb3-a64b-dcc4538cd1af"
+name = "test_taker"
+env = { NEBIUS_API_KEY = "${NEBIUS_API_KEY}", HF_TOKEN = "${HF_TOKEN}" }
+
+[config]
+questions_limit = "none"
