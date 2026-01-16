@@ -1,0 +1,13 @@
+{
+  "participants": {
+    "test_taker": "019bc43f-4d48-7eb3-a64b-dcc4538cd1af"
+  },
+  "results": [
+    {
+      "bleu_score": 0.3329986055669545,
+      "rouge_score": 0.44077256671000176,
+      "chrf_score": 0.4918031685587139,
+      "exact_match_score": 0.29732142857142857
+    }
+  ]
+}
