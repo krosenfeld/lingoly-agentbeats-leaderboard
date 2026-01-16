@@ -1,6 +1,6 @@
 [green_agent]
 agentbeats_id = "019bc407-69cf-7bc3-85ce-b1a05830277c"
-env = { API_KEY = "${GITHUB_SECRET_NAME}", HF_TOKEN = "${HF_TOKEN}", LOG_LEVEL = "INFO" }
+env = { HF_TOKEN = "${HF_TOKEN}", LOG_LEVEL = "INFO" }
 
 [[participants]]
 agentbeats_id = ""
