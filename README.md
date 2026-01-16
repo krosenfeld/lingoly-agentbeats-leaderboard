@@ -6,7 +6,7 @@ The lingoly green agent administers the [LINGOLY](https://arxiv.org/abs/2406.061
 
 ## Scoring
 
-Answers are assessed by four metrics (exact_match, bleu, rouge, and chrF) across the entire problem set (204 questions with 1,133 subquestions). The metrics are also assess be level and subject. See the [benchmark paper](https://arxiv.org/abs/2406.06196) for more information.
+Answers are assessed by four metrics (exact_match, bleu, rouge, and chrF) across the entire problem set (204 questions with 1,133 subquestions). See the [benchmark paper](https://arxiv.org/abs/2406.06196) for more information.
 
 ## Requirements for participant agents
 
