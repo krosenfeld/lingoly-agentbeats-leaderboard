@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/krosenfeld/green-agent-lingoly@sha256:f211943cd398714b4c37691c582a7e821d8f1b1f2bead1c05ed914ea068cedea",
+    "test_taker": "ghcr.io/krosenfeld/purple-agent-nebius-test-taker@sha256:6a72221e0fcc8adf3a401be3a233bcbe9a5153e7c551a930e3e0806fdfbdd3c3",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-16T06:26:22Z",
+  "github_actions": {
+    "run_url": "https://github.com/krosenfeld/lingoly-agentbeats-leaderboard/actions/runs/21056594714",
+    "run_logs_url": "https://api.github.com/repos/krosenfeld/lingoly-agentbeats-leaderboard/actions/runs/21056594714/logs",
+    "ref": "refs/heads/nebius-llama3.3-repro",
+    "sha": "f95442ee6930d527e2d61538b6c5171d16a9cd2c",
+    "repository_url": "https://github.com/krosenfeld/lingoly-agentbeats-leaderboard",
+    "workflow_ref": "krosenfeld/lingoly-agentbeats-leaderboard/.github/workflows/run-scenario.yml@refs/heads/nebius-llama3.3-repro",
+    "workflow_sha": "f95442ee6930d527e2d61538b6c5171d16a9cd2c"
+  }
+}
